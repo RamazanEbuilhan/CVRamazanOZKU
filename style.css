@@ -112,6 +112,11 @@ header
     margin: 40px 0 40px 0;
 }
 
+.titre
+{
+    color: #ff5733
+}
+
 main h2 
 {
     margin-left: 20px;
